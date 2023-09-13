@@ -10,9 +10,15 @@
 }
 .col-sm-6{
     padding: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
 }
-p{
+.advice{
     width: 200px;
+    text-wrap: wrap; 
+}
+.random{
+    width: 150px;
     text-wrap: wrap;
 }
